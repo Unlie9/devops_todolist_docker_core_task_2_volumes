@@ -61,7 +61,7 @@ http://localhost:8080
 ## Docker Hub Repository
 
 The application image is available at:
-- **Docker Hub**: https://hub.docker.com/r/<YOUR_DOCKERHUB_USERNAME>/todoapp
+- **Docker Hub**: https://hub.docker.com/r/unlie9/todoapp
 
 To push images to Docker Hub:
 
