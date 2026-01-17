@@ -63,6 +63,9 @@ http://localhost:8080
 The application image is available at:
 - **Docker Hub**: https://hub.docker.com/r/unlie9/todoapp
 
+The MySQL image is available at 
+- **Docker Hub**: https://hub.docker.com/r/unlie9/mysql-local 
+
 To push images to Docker Hub:
 
 ```bash
